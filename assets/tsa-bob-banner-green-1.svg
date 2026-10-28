@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="160" viewBox="0 0 1280 160" role="img" aria-label="TSA Bob: could be automerged">
+  <rect width="1280" height="160" fill="#1a7f37"/>
+  <g fill="#ffffff" fill-opacity="0.08">
+    <polygon points="1040,0 1080,0 1000,160 960,160"/>
+    <polygon points="1120,0 1160,0 1080,160 1040,160"/>
+    <polygon points="1200,0 1240,0 1160,160 1120,160"/>
+    <polygon points="1280,0 1280,80 1240,160 1200,160"/>
+  </g>
+  <circle cx="96" cy="80" r="44" fill="#ffffff"/>
+  <path d="M75 81l14 14 29-30" fill="none" stroke="#1a7f37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" fill="#ffffff">
+    <text x="172" y="62" font-size="24" letter-spacing="3" fill-opacity="0.85">TSA BOB</text>
+    <text x="172" y="116" font-size="48">Could be automerged</text>
+  </g>
+</svg>

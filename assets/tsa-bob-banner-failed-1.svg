@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="160" viewBox="0 0 1280 160" role="img" aria-label="TSA Bob: review failed">
+  <rect width="1280" height="160" fill="#e3a008"/>
+  <g fill="#24292f" fill-opacity="0.14">
+    <polygon points="1040,0 1080,0 1000,160 960,160"/>
+    <polygon points="1120,0 1160,0 1080,160 1040,160"/>
+    <polygon points="1200,0 1240,0 1160,160 1120,160"/>
+    <polygon points="1280,0 1280,80 1240,160 1200,160"/>
+  </g>
+  <circle cx="96" cy="80" r="44" fill="#24292f"/>
+  <path d="M96 55l27 47H69z" fill="#e3a008" stroke="#e3a008" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M96 70v15" stroke="#24292f" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="96" cy="95" r="4" fill="#24292f"/>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" fill="#24292f">
+    <text x="172" y="62" font-size="24" letter-spacing="3" fill-opacity="0.8">TSA BOB</text>
+    <text x="172" y="116" font-size="48">Review failed</text>
+  </g>
+</svg>
