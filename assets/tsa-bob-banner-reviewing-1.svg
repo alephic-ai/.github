@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="160" viewBox="0 0 1280 160" role="img" aria-label="TSA Bob is reviewing this PR">
+  <rect width="1280" height="160" fill="#0969da"/>
+  <g fill="#ffffff" fill-opacity="0.08">
+    <polygon points="1040,0 1080,0 1000,160 960,160"/>
+    <polygon points="1120,0 1160,0 1080,160 1040,160"/>
+    <polygon points="1200,0 1240,0 1160,160 1120,160"/>
+    <polygon points="1280,0 1280,80 1240,160 1200,160"/>
+  </g>
+  <g>
+    <rect x="-120" width="120" height="160" fill="#ffffff" fill-opacity="0.07"/>
+    <rect x="-4" width="4" height="160" fill="#ffffff" fill-opacity="0.45"/>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="1400 0" dur="3s" repeatCount="indefinite"/>
+  </g>
+  <circle cx="96" cy="80" r="44" fill="#ffffff"/>
+  <circle cx="96" cy="80" r="22" fill="none" stroke="#0969da" stroke-opacity="0.25" stroke-width="8"/>
+  <path d="M96 58a22 22 0 0 1 22 22" fill="none" stroke="#0969da" stroke-width="8" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" from="0 96 80" to="360 96 80" dur="0.9s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" fill="#ffffff">
+    <text x="172" y="62" font-size="24" letter-spacing="3" fill-opacity="0.85">TSA BOB</text>
+    <text x="172" y="116" font-size="48">Reviewing this PR</text>
+  </g>
+</svg>
