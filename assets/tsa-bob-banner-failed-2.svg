@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="80" viewBox="0 0 1280 80" role="img" aria-label="TSA Bob: belt stopped, review failed">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6f8fa"/><stop offset="1" stop-color="#eef1f4"/></linearGradient>
+    <pattern id="hazard" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="12" height="12" fill="#f5c518"/><rect width="6" height="12" fill="#1f2328"/></pattern>
+    <clipPath id="tunnel"><rect x="872" y="26" width="128" height="38"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="1279" height="79" rx="8" fill="url(#bg)" stroke="#d1d9e0"/>
+  <g transform="translate(24 18)"><path d="M22 4L42 39a2.5 2.5 0 0 1-2.2 3.7H4.2A2.5 2.5 0 0 1 2 39z" fill="#f5c518" stroke="#bf8700" stroke-width="2" stroke-linejoin="round"/><rect x="19.5" y="15" width="5" height="15" rx="2.5" fill="#1f2328"/><circle cx="22" cy="35.5" r="2.8" fill="#1f2328"/></g>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="84" y="31" font-size="12" font-weight="700" letter-spacing="3" fill="#6e7781">TSA BOB</text>
+    <text x="84" y="59" font-size="26" font-weight="700" fill="#1f2328">Review failed<tspan dx="10" font-size="17" font-weight="400" fill="#59636e">· belt stopped</tspan></text>
+  </g>
+  <g>
+    <rect x="616" y="64" width="638" height="8" rx="4" fill="#c9d1d9"/>
+    <line x1="620" y1="64.5" x2="1250" y2="64.5" stroke="#8c959f" stroke-width="1" stroke-dasharray="6 10" stroke-opacity="0.8"></line>
+    <circle cx="632" cy="68" r="2.6" fill="#8c959f"/><circle cx="654" cy="68" r="2.6" fill="#8c959f"/><circle cx="676" cy="68" r="2.6" fill="#8c959f"/><circle cx="698" cy="68" r="2.6" fill="#8c959f"/><circle cx="720" cy="68" r="2.6" fill="#8c959f"/><circle cx="742" cy="68" r="2.6" fill="#8c959f"/><circle cx="764" cy="68" r="2.6" fill="#8c959f"/><circle cx="786" cy="68" r="2.6" fill="#8c959f"/><circle cx="808" cy="68" r="2.6" fill="#8c959f"/><circle cx="830" cy="68" r="2.6" fill="#8c959f"/><circle cx="852" cy="68" r="2.6" fill="#8c959f"/><circle cx="874" cy="68" r="2.6" fill="#8c959f"/><circle cx="896" cy="68" r="2.6" fill="#8c959f"/><circle cx="918" cy="68" r="2.6" fill="#8c959f"/><circle cx="940" cy="68" r="2.6" fill="#8c959f"/><circle cx="962" cy="68" r="2.6" fill="#8c959f"/><circle cx="984" cy="68" r="2.6" fill="#8c959f"/><circle cx="1006" cy="68" r="2.6" fill="#8c959f"/><circle cx="1028" cy="68" r="2.6" fill="#8c959f"/><circle cx="1050" cy="68" r="2.6" fill="#8c959f"/><circle cx="1072" cy="68" r="2.6" fill="#8c959f"/><circle cx="1094" cy="68" r="2.6" fill="#8c959f"/><circle cx="1116" cy="68" r="2.6" fill="#8c959f"/><circle cx="1138" cy="68" r="2.6" fill="#8c959f"/><circle cx="1160" cy="68" r="2.6" fill="#8c959f"/><circle cx="1182" cy="68" r="2.6" fill="#8c959f"/><circle cx="1204" cy="68" r="2.6" fill="#8c959f"/><circle cx="1226" cy="68" r="2.6" fill="#8c959f"/>
+    <rect x="640" y="72" width="4" height="8" fill="#959ea8"/>
+    <rect x="1226" y="72" width="4" height="8" fill="#959ea8"/>
+  </g>
+  <g transform="rotate(-8 790 64)"><g>
+    <rect x="782" y="44" width="22" height="16" rx="5" fill="#7d7690"/>
+    <path d="M787 44 q6 -6 12 0" fill="none" stroke="#625c74" stroke-width="2"/>
+    <path d="M772 54 h44 l-4 10 h-36 z" fill="#959ea8"/>
+  </g></g>
+  <g transform="rotate(-14 800 64)"><g>
+    <path d="M792 40 q14 -14 28 0" fill="none" stroke="#8f7958" stroke-width="2.2"/>
+    <rect x="782" y="38" width="48" height="20" rx="10" fill="#b39a76"/>
+    <path d="M788 46 h36" stroke="#8f7958" stroke-width="1.4" stroke-dasharray="3 3"/>
+  </g></g>
+  <g transform="rotate(6 840 64)"><g>
+    <path d="M844 30 v-5 h14 v5" fill="none" stroke="#557c78" stroke-width="2.4" stroke-linejoin="round"/>
+    <rect x="828" y="30" width="46" height="30" rx="4" fill="#6f9a96"/>
+    <path d="M840 33v24M851 33v24M862 33v24" stroke="#557c78" stroke-width="1.6" stroke-linecap="round"/>
+    <circle cx="836" cy="62" r="2.2" fill="#557c78"/>
+    <circle cx="866" cy="62" r="2.2" fill="#557c78"/>
+  </g></g>
+  <g>
+    <rect x="860" y="12" width="152" height="56" rx="7" fill="#b6bec7"/>
+    <rect x="872" y="26" width="128" height="38" rx="2" fill="#3d444d"/>
+    
+    <rect x="874" y="27" width="4" height="36" fill="#8c959f" fill-opacity="0.55"/><rect x="880" y="27" width="4" height="36" fill="#8c959f" fill-opacity="0.55"/><rect x="886" y="27" width="4" height="36" fill="#8c959f" fill-opacity="0.55"/><rect x="892" y="27" width="4" height="36" fill="#8c959f" fill-opacity="0.55"/><rect x="898" y="27" width="4" height="36" fill="#8c959f" fill-opacity="0.55"/>
+    <text x="872" y="22" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="2" fill="#3d444d" fill-opacity="0.7">X-RAY</text>
+    
+  </g>
+  <g transform="rotate(-6 936 42)"><rect x="846" y="35" width="180" height="11" fill="url(#hazard)"/><rect x="846" y="35" width="180" height="11" fill="none" stroke="#1f2328" stroke-opacity="0.4"/></g>
+  <g><rect x="989" y="7" width="12" height="5" rx="1" fill="#959ea8"/><path d="M990 8a5 5 0 0 1 10 0z" fill="#e5484d"><animate attributeName="fill-opacity" values="1;0.25;1" dur="0.8s" repeatCount="indefinite"/></path><circle cx="995" cy="5" r="9" fill="#e5484d" fill-opacity="0.25"><animate attributeName="fill-opacity" values="0.35;0;0.35" dur="0.8s" repeatCount="indefinite"/></circle></g>
+  <g>
+    <rect x="1036" y="30" width="3" height="34" fill="#959ea8"/>
+    <rect x="1020" y="12" width="36" height="22" rx="3" fill="#959ea8"/>
+    <rect x="1023" y="15" width="30" height="16" rx="1.5" fill="#e5484d"/>
+    <text x="1038" y="26.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="7.5" font-weight="700" letter-spacing="0.5" fill="#ffffff">ERROR<animate attributeName="fill-opacity" values="1;0.2;1" dur="0.8s" repeatCount="indefinite"/></text>
+  </g>
+  <g><rect x="1101" y="34" width="3" height="40" fill="#959ea8"/><rect x="1060" y="14" width="86" height="22" rx="2" fill="#ffffff" stroke="#959ea8"/><rect x="1062" y="16" width="82" height="18" rx="1.5" fill="none" stroke="#e5484d" stroke-width="1.5"/><text x="1103" y="29" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="800" letter-spacing="0.5" fill="#e5484d">OUT OF ORDER</text></g>
+  <g><path d="M1166 74 l8 -26 h6 l8 26 z" fill="#e8833a"/><path d="M1170.5 62 h13 M1172.5 55 h9" stroke="#ffffff" stroke-opacity="0.9" stroke-width="2.6"/><rect x="1160" y="73" width="34" height="4" rx="1.5" fill="#e8833a"/></g>
+  <g><path d="M1212 74 l8 -26 h6 l8 26 z" fill="#e8833a"/><path d="M1216.5 62 h13 M1218.5 55 h9" stroke="#ffffff" stroke-opacity="0.9" stroke-width="2.6"/><rect x="1206" y="73" width="34" height="4" rx="1.5" fill="#e8833a"/></g>
+</svg>
