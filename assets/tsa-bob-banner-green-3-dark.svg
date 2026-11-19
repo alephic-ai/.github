@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="80" viewBox="0 0 1280 80" role="img" aria-label="TSA Bob: cleared, no alarms">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d343c"/><stop offset="1" stop-color="#262c33"/></linearGradient>
+    <clipPath id="tunnel"><rect x="872" y="26" width="128" height="38"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="1279" height="79" rx="8" fill="url(#bg)" stroke="none"/>
+  <g transform="translate(24 18)"><rect width="44" height="44" rx="9" fill="#2da44e"/><path d="M11 23l7.5 7.5L33 15" fill="none" stroke="#ffffff" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="84" y="31" font-size="12" font-weight="700" letter-spacing="3" fill="#8b949e">TSA BOB</text>
+    <text x="84" y="59" font-size="26" font-weight="700" fill="#e6edf3">No alarms<tspan dx="10" font-size="17" font-weight="400" fill="#9aa4ae">· cleared</tspan></text>
+  </g>
+  <g>
+    <rect x="616" y="64" width="638" height="8" rx="4" fill="#3d454e"/>
+    <line x1="620" y1="64.5" x2="1250" y2="64.5" stroke="#5a636d" stroke-width="1" stroke-dasharray="6 10" stroke-opacity="0.8"></line>
+    <circle cx="632" cy="68" r="2.6" fill="#5a636d"/><circle cx="654" cy="68" r="2.6" fill="#5a636d"/><circle cx="676" cy="68" r="2.6" fill="#5a636d"/><circle cx="698" cy="68" r="2.6" fill="#5a636d"/><circle cx="720" cy="68" r="2.6" fill="#5a636d"/><circle cx="742" cy="68" r="2.6" fill="#5a636d"/><circle cx="764" cy="68" r="2.6" fill="#5a636d"/><circle cx="786" cy="68" r="2.6" fill="#5a636d"/><circle cx="808" cy="68" r="2.6" fill="#5a636d"/><circle cx="830" cy="68" r="2.6" fill="#5a636d"/><circle cx="852" cy="68" r="2.6" fill="#5a636d"/><circle cx="874" cy="68" r="2.6" fill="#5a636d"/><circle cx="896" cy="68" r="2.6" fill="#5a636d"/><circle cx="918" cy="68" r="2.6" fill="#5a636d"/><circle cx="940" cy="68" r="2.6" fill="#5a636d"/><circle cx="962" cy="68" r="2.6" fill="#5a636d"/><circle cx="984" cy="68" r="2.6" fill="#5a636d"/><circle cx="1006" cy="68" r="2.6" fill="#5a636d"/><circle cx="1028" cy="68" r="2.6" fill="#5a636d"/><circle cx="1050" cy="68" r="2.6" fill="#5a636d"/><circle cx="1072" cy="68" r="2.6" fill="#5a636d"/><circle cx="1094" cy="68" r="2.6" fill="#5a636d"/><circle cx="1116" cy="68" r="2.6" fill="#5a636d"/><circle cx="1138" cy="68" r="2.6" fill="#5a636d"/><circle cx="1160" cy="68" r="2.6" fill="#5a636d"/><circle cx="1182" cy="68" r="2.6" fill="#5a636d"/><circle cx="1204" cy="68" r="2.6" fill="#5a636d"/><circle cx="1226" cy="68" r="2.6" fill="#5a636d"/>
+    <rect x="640" y="72" width="4" height="8" fill="#4a525b"/>
+    <rect x="1226" y="72" width="4" height="8" fill="#4a525b"/>
+  </g>
+  <g>
+    <path d="M710 46 q14 -14 28 0" fill="none" stroke="#7f6b51" stroke-width="2.2"/>
+    <rect x="700" y="44" width="48" height="20" rx="10" fill="#9c8566"/>
+    <path d="M706 52 h36" stroke="#7f6b51" stroke-width="1.4" stroke-dasharray="3 3"/>
+  </g>
+  <g>
+    <rect x="780" y="44" width="22" height="16" rx="5" fill="#7d7690"/>
+    <path d="M785 44 q6 -6 12 0" fill="none" stroke="#625c74" stroke-width="2"/>
+    <path d="M770 54 h44 l-4 10 h-36 z" fill="#4a525b"/>
+  </g>
+  <g>
+    <rect x="860" y="12" width="152" height="56" rx="7" fill="#59626c"/>
+    <rect x="872" y="26" width="128" height="38" rx="2" fill="#1b2026"/>
+    
+    <rect x="874" y="27" width="4" height="36" fill="#6b7580" fill-opacity="0.55"/><rect x="880" y="27" width="4" height="36" fill="#6b7580" fill-opacity="0.55"/><rect x="886" y="27" width="4" height="36" fill="#6b7580" fill-opacity="0.55"/><rect x="892" y="27" width="4" height="36" fill="#6b7580" fill-opacity="0.55"/><rect x="898" y="27" width="4" height="36" fill="#6b7580" fill-opacity="0.55"/>
+    <text x="872" y="22" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="2" fill="#1b2026" fill-opacity="0.7">X-RAY</text>
+    <circle cx="998" cy="19" r="3.5" fill="#6bab73"></circle>
+  </g>
+  <g>
+    <rect x="1036" y="30" width="3" height="34" fill="#4a525b"/>
+    <rect x="1020" y="12" width="36" height="22" rx="3" fill="#4a525b"/>
+    <rect x="1023" y="15" width="30" height="16" rx="1.5" fill="#1b2026"/>
+    <path d="M1032 23 l3 3 6 -6" fill="none" stroke="#6bab73" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <path d="M1136 30 v-5 h14 v5" fill="none" stroke="#56716f" stroke-width="2.4" stroke-linejoin="round"/>
+    <rect x="1120" y="30" width="46" height="30" rx="4" fill="#6f8f8c"/>
+    <path d="M1132 33v24M1143 33v24M1154 33v24" stroke="#56716f" stroke-width="1.6" stroke-linecap="round"/>
+    <circle cx="1128" cy="62" r="2.2" fill="#56716f"/>
+    <circle cx="1158" cy="62" r="2.2" fill="#56716f"/>
+  </g>
+  <g>
+    <path d="M1166 34 l-4 8" stroke="#9aa4ae" stroke-width="1"/>
+    <rect x="1151" y="41" width="16" height="11" rx="2" fill="#6bab73"/>
+    <path d="M1155 46.5 l2.5 2.5 5 -5" fill="none" stroke="#262c33" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
